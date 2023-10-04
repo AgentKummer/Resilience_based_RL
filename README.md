@@ -8,3 +8,5 @@ One of our goals is to design resilient systems, which means to design such syst
 
 We suggest using Deep Q-learning to learn when to intervene in the system to avoid catastrophic events, where we propose to use the resilience metric as a reward function for the learning process.
 The results show that the proposed methodology is applicable to developing resilient-based mitigation systems, and the agent can effectively distinguish between normal and hazardous states.
+
+![Figure_structure](https://github.com/AgentKummer/Resilience_based_RL/assets/131676644/ecbbe139-0116-4774-aa77-baf2ca93c98d)
