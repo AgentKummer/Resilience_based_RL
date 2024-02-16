@@ -1,4 +1,4 @@
-# Resilience_based_RL (Under Construction)
+# Resilience_based_RL
 
 Exothermic reactions carried out in batch reactors need a lot of attention to operate because any insufficient condition can lead to thermal runaway causing an explosion in the worst case.
 
